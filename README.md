@@ -1,2 +1,2 @@
 # BankLoanApprovalPrediction
-Performed data preparation, model creation and interaction by supervised Machine Learning techniques using Python to determine the loan application approvals
+We analysed a bank loan dataset with 255,327 records to predict approval decisions for 20 new applicants. Using Python and scikit-learn, we followed a full machine learning workflow: data preparation, model training, evaluation, and hyperparameter tuning. Various classification models were tested, and confusion matrices were used to assess performance and identify the most accurate model.
